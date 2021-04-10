@@ -1,7 +1,7 @@
 ///TERNARY OPERATOR
 const person = 'Perseus';
-2- person === 'Medusa' ? console.log('Yep, Medusa!') : 
-3- console.log(`Nope, not Medusa. That's ${person}.`);
+ person === 'Medusa' ? console.log('Yep, Medusa!') : 
+ console.log(`Nope, not Medusa. That's ${person}.`);
 
 const number="120";
 
